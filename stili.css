@@ -13,3 +13,8 @@ h1{
 h2{
 	font-size: 36px;
 }
+.footer{
+	font-size: 2rem;
+	line-height: 1.5em;
+	background-color: #cecece;
+}
