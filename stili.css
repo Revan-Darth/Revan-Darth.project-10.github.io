@@ -9,6 +9,9 @@ body{
 }
 h1{
 	font-size: 52px;
+	line-height: 2em;
+	display: block;
+	border: 2px dashed #eee;
 }
 h2{
 	font-size: 36px;
